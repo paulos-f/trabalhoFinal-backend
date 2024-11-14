@@ -1,12 +1,5 @@
 ## Repositório destinado a desenvolvimento do projeto final da disciplina de Backend.
 __________________________________________________
-### Participantes
-[Paulo de Souza Fontanela](https://github.com/paulos-f)
-
-[Kaique Demetrio](https://github.com/kaiquedm12)
-
-[Lucas Cardoso Rodrigues](https://github.com/JogadorZero)
-
 ### Instruções do projeto
 __________________________________________________
 
