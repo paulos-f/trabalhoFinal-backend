@@ -34,8 +34,8 @@ src/
 │   │   ├── controller/   # Controllers REST
 │   │   ├── dto/          # Objetos DTO
 │   │   ├── service/      # Serviços
-│   │   ├── entity/       # Entidades (não inclusas aqui)
-│   │   ├── repository/   # Repositórios (não inclusos aqui)
+│   │   ├── entity/       # Entidades 
+│   │   ├── repository/   # Repositórios 
 │   │   └── DemoApplication.java  # Classe principal
 └── test/ ...             # Testes
 ```
